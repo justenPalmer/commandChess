@@ -6,7 +6,7 @@ Command Chess is a form of chess that mixes up the standard game. By allowing pl
 
 ## Positioning
 
-In Command Chess the positioning of the back row is determined before the game starts. Players take turns placing their pieces until they have completed their back row.
+In Command Chess the positioning of the pieces is determined before the game starts. Players take turns placing their pieces until they have completed their back row.
 
 1. Position the pawns on the front row of each players' side as in normal chess. 
 2. The white player positions any one piece of their choice anywhere on the back row of their side.
