@@ -25,13 +25,13 @@ Castling still applies as in standard chess, however, with the flexibility of pi
 
 - Both the King and the rook to be castled must not have moved all game.
 - The spaces between the King and the rook must be clear of any pieces.
-- The spaces between the king and rook must not be in the line of attack by any enemy pieces
+- The spaces between the king and rook must not be in the line of attack of any enemy pieces
 
 ### How to castle
 
 1. Swap the position of the king and rook
-2. Center the pieces in the area where the castling took place
-3. If they are not able to be centered due to an even number of spaces, place the pieces toward the center of the board
+2. Move the king and rook toward each other so that each piece moves an equal distance, stopping when the pieces are adjacent or one space apart
+3. If there ends up being one space in between the king and rook, than the rook moves into the empty space
 
 ## Bishops
 
