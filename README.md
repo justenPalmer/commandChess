@@ -33,7 +33,7 @@ Castling still applies as in standard chess, however, with the flexibility of pi
 
 1. Swap the position of the king and rook.
 2. Move the king and rook toward each other so that each piece moves an equal distance, stopping when the pieces are adjacent or one space apart.
-3. If there ends up being one space in between the king and rook, than the rook moves into the empty space.
+3. If there ends up being one space in between the king and rook, than the king moves into the empty space.
 
 ## Bishops
 
