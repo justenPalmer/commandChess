@@ -21,13 +21,13 @@ Double placement of pieces beyond white's first placement is meant to balance th
 
 Castling still applies as in standard chess, however, with the flexibility of piece positioning the rules for castling must be made more general.
 
-To castle: 
+### Requirements of castling
 
 - both the King and the rook to be castled must not have moved all game.
 - The spaces between the King and the rook must be clear of any pieces.
 - The spaces between the king and rook must not be in the line of attack by any enemy pieces
 
-Castling:
+### How to castle
 
 1. Swap the position of the king and rook
 2. Center the pieces in the area where the castling took place
