@@ -10,7 +10,7 @@ In Command Chess the positioning of the pieces is determined before the game sta
 
 1. Position the pawns on the front row of each players' side as in normal chess. 
 2. The white player positions one piece of their choice anywhere on the back row of their side.
-3. The black players follows by positioning any two pieces on their back row.
+3. The black player follows by positioning any two pieces on their back row.
 4. White then positions two pieces.
 5. Each player continues placing two pieces until black has no pieces left. White then places their final piece.
 6. Play then starts as usual with white moving first.
