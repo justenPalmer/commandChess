@@ -37,4 +37,4 @@ Castling still applies as in standard chess, however, with the flexibility of pi
 
 ## Bishops
 
-In this chess variant, bishops may end up occupying the same color spaces. This is intended, as it may create a strategic "blitz" on a color of spaces on the board. However, this may create an optimal strategy that may prove too powerful. Playtesting and simulation may determine whether an additional rule to require distinct bishop color placement.
+In this chess variant, bishops may end up occupying the same color spaces. This is intended, as it may create a strategic "blitz" on a color of spaces on the board. However, this may create an optimal strategy that may prove too powerful. Playtesting and simulation may determine whether an additional rule about distinct bishop color placement is required.
