@@ -28,8 +28,8 @@ Castling still applies as in standard chess, however, with the flexibility of pi
 The castling requirements are the same as in standard chess.
 
 - Both the king and the rook to be castled must not have moved all game.
-- The spaces between the king and the rook must be clear of any pieces.
-- The spaces between the king and rook must not be in the line of attack of any enemy piece.
+- The spaces between the king and the rook (inclusive) must be clear of any pieces.
+- The spaces between the king starting position and end position (inclusive) must not be in the line of attack of an opponent's piece.
 
 ### How to castle
 
